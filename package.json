@@ -4,6 +4,8 @@
   "description": "MDB Vue Demo App",
   "author": "MDBootstrap <support@mdbootstrap.com>",
   "license": "MIT",
+  "main": "index.html",
+  "homepage": "https://yinfo.github.io/MDB-Vue-Free-Dist",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js --open",
